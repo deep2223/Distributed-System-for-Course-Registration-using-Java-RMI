@@ -1,0 +1,5 @@
+
+2018/10/14 22:50:35 ,enrolcourse request to server2 (SOEN) & server 3(INSE), , Request message sent from the client to server with port number 8002 , , Request message sent from the client to server with port number 8001 ,  , Reply received from the server with port number 8002 , 
+
+ , Reply received from the server with port number 8001 , 
+

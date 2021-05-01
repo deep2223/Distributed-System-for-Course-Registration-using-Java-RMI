@@ -1,0 +1,10 @@
+
+2018/10/14 18:49:27  , get class schedule , [studentID] , Request successfully completed ,
+Fall : comp1111 
+winter : 
+summer : 
+2018/10/14 18:49:30  , drop course , [studentID, courseID] , Request successfully completed , comps1111 is successfully drop in comp1111
+2018/10/14 18:49:41  , get class schedule , [studentID] , Request successfully completed ,
+Fall : 
+winter : 
+summer : 
